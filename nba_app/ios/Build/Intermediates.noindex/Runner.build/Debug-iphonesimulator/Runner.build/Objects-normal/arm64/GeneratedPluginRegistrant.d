@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/fazilp/Flutter-Development/NBA-APP/nba_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
